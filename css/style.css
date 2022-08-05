@@ -1,0 +1,44 @@
+.m-50 {
+    margin-top: 50px;
+}
+
+.m-100 {
+    margin-top: 100px;
+}
+
+.p-75 {
+    padding-left: 75px;
+}
+
+.orange {
+    color: #FFC107;
+}
+
+.buy-now-button {
+    background-color: #000000;
+    color: #ffffff;
+    padding: 9px 25px;
+    border-radius: 8px;
+}
+
+.card {
+    padding: 14px 23px;
+    text-align: center;
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+#categories .card{
+    padding: 17px 0;
+    margin: auto;
+}
+
+#categories h1{
+    border-bottom: 10px solid #FFBB24;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+footer{
+    text-align: center;
+}
